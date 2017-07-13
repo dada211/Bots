@@ -1,0 +1,8 @@
+{
+    "maxBots": 2,
+    "botsPerIP": 1,
+    "botNick": "Some Dank name",
+    "chatSpam": false,
+    "chatMsg": "",
+    "port": 300
+}

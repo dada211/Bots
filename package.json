@@ -1,0 +1,21 @@
+{
+  "name": "bots",
+  "version": "0.0.1",
+  "description": "Bots for agar clones",
+  "main": "index.js",
+  "dependencies": {
+    "socket.io": "^1.7.1",
+    "socks": "^1.1.9",
+    "ws": "^1.1.1",
+    "log-dot-js":"latest",
+    "figlet":"latest",
+    "jetty":"latest",
+    "download":"latest",
+    "request":"latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TinyDev",
+  "license": "Apache-2.0"
+}
